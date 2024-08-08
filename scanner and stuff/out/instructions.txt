@@ -1,0 +1,2 @@
+Convert the video to its individual frames using ffmpeg.
+Before doing that make sure to lower the amount of colours in the video to all the colours in the palette 
